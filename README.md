@@ -1,5 +1,6 @@
 
 ![C](https://img.shields.io/badge/Language-C-green.svg)[![Developed with Dev-C++](https://img.shields.io/badge/Developed%20with-Dev--C%2B%2B-blue)](https://www.bloodshed.net/devcpp.html)<a class="header-badge" target="_blank" href="https://www.linkedin.com/in/emrah-fidann/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
 
 
 <h1 style="color: #fee440;"> 👨‍💻 C LC </h1>
