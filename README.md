@@ -29,11 +29,13 @@ This project is the project folder I use to learn C syntax, with basic and inter
 
 <h2 style="color: #fee440;"> Lessons Learned </h1>
 
-Being able to do anything with a software language. I think it will be used more than python over time. I even think it should be the language of introduction to the software.
+When I started learning C language, I was someone who had no programming experience before. Understanding basic concepts and developing algorithmic thinking was challenging in the first place. However, these difficulties encouraged me to make more effort rather than discourage me. It took time to learn concepts such as the basic syntax structure of the C language, memory management and pointers, but this process was the cornerstone of my journey of understanding programming in general.
 
-Its use is quite enjoyable and the most up-to-date developing software language, especially its frameworks are quite useful. 
+Memory management and markers opposed as one of the most complicated issues of the C language. Careful attention was needed to prevent errors such as memory leaks and invalid markers. 
 
-In general, I had problems with the installations.
+An in-depth understanding of this language has increased my ability to learn more complex languages and to grasp programming in general. The performance-oriented structure and system programming capabilities of the C language make it a language worth learning. Learning the C language has provided a solid foundation for my future programming journey.
+
+
 
 
 <h2 style="color: #fee440;"> Feedback </h1>
